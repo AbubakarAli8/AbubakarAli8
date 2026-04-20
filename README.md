@@ -16,7 +16,8 @@
 - ☁️ Holding **3 Microsoft Azure certifications** — AZ-900, AI-900, PL-300
 - 💻 Proficient in **Java**, **Python**, and **C#**
 - 🤖 Currently building a **Discord Bot** for MMU's Minecraft Society as a group project
-- 📚 Currently studying **Algorithms & Data Structures** and **Computer Networks**
+- 📚 Currently studying **Studying system design and scalable architecture** and **Studying for AZ-104**
+- 🏥 Currently working as a **Part-time Assistant Nurse** at a dialysis hospital
 - 🌍 Based in **Manchester, UK**
 - 📫 Reach me at **bakri20041@outlook.com**
 
@@ -98,13 +99,17 @@
 ## 🎓 Education
 
 **BSc Computer Science** — Manchester Metropolitan University *(2024–2027)*
-- Programming — **1st Class**
-- Mathematics for Computer Science — **1st Class**
+- Algorithms & Data Structures — **1st Class**
 - Databases — **1st Class**
+- Graduate Skills — **1st Class**
+- Mathematics for Computer Science — **1st Class**
+- Programming — **1st Class**
 - Team Project — **1st Class**
+- Web Development — **1st Class**
 - Computer Architecture — **2:1**
+- Computer Networks — **2:1**
 
-**HND Applied Science** — Holy Cross Sixth Form College *(2023)*
+**Applied Science** — Holy Cross Sixth Form College *(2023)*
 - Applied Science Modules — **A\***
 - Laboratory Skills & Research — **A\***
 
@@ -114,6 +119,7 @@
 
 - 🇬🇧 **English** — C2 Proficient
 - 🇸🇦 **Arabic** — B2 Upper Intermediate
+- 🇵🇭 **Tagalog** - B1 Intermediate
 
 ---
 
