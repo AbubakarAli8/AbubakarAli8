@@ -117,7 +117,7 @@
 
 ## 🌐 Languages
 
-- 🇬🇧 **English** — C2 Proficient
+- 🇬🇧 **English** — Native
 - 🇸🇦 **Arabic** — B2 Upper Intermediate
 - 🇵🇭 **Tagalog** - B1 Intermediate
 
