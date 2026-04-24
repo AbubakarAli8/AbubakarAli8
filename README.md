@@ -17,7 +17,6 @@
 - 💻 Proficient in **Java**, **Python**, and **C#**
 - 🤖 Currently building a **Discord Bot** for MMU's Minecraft Society as a group project
 - 📚 Currently studying **Studying system design and scalable architecture** and **Studying for AZ-104**
-- 🏥 Currently working as a **Part-time Assistant Nurse** at a dialysis hospital
 - 🌍 Based in **Manchester, UK**
 - 📫 Reach me at **bakri20041@outlook.com**
 
