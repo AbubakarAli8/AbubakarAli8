@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Abubakar 👋
+# Hi, I'm Akira 👋
 
 **Computer Science Student @ Manchester Metropolitan University**
 
