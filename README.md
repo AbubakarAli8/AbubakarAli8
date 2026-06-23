@@ -89,12 +89,12 @@
 ---
 
 ### 🩸 [DBD Bot — Dead by Daylight Discord Bot](https://github.com/ekql-ops/DBD-Bot)
-A full-featured Discord bot built for a Dead by Daylight community. Includes a custom perk and killer database with live tier info, moderation tools, XP leveling, ticket system, and verification — all in a custom orange/purple theme.
+> A full-featured Discord bot built for a Dead by Daylight community. Includes a custom perk and killer database with live tier info, moderation tools, XP leveling, ticket system, and verification — all in a custom orange/purple theme.
 
 ---
 
 ### 📚 [BookShop — Manga Catalog Website](https://github.com/ekql-ops/BookShop)
-A responsive HTML bookshop website featuring a manga catalog with cover art and descriptions, a mobile-friendly hamburger menu, a dedicated pay page, and smooth UI animations — all in a sleek dark theme.
+> A responsive HTML bookshop website featuring a manga catalog with cover art and descriptions, a mobile-friendly hamburger menu, a dedicated pay page, and smooth UI animations — all in a sleek dark theme.
 
 `HTML` `CSS` `JavaScript` 
 
