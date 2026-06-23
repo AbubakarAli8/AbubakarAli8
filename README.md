@@ -93,7 +93,7 @@ A full-featured Discord bot built for a Dead by Daylight community. Includes a c
 
 ---
 
-### 🩸 [BookShop — Manga Catalog Website](https://github.com/ekql-ops/BookShop)
+### 📚 [BookShop — Manga Catalog Website](https://github.com/ekql-ops/BookShop)
 A responsive HTML bookshop website featuring a manga catalog with cover art and descriptions, a mobile-friendly hamburger menu, a dedicated pay page, and smooth UI animations — all in a sleek dark theme.
 
 `HTML` `CSS` `JavaScript` 
