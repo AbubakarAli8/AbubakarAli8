@@ -53,7 +53,7 @@
 
 ## 🚀 Projects
 
-### 🔐 [SecureVault — CLI Password Manager](https://github.com/AbubakarAli8/securevault)
+### 🔐 [SecureVault — CLI Password Manager](https://github.com/ekql-ops/securevault)
 > A command-line password manager built in Python with **AES-256 encryption**, PBKDF2 key derivation, and a built-in secure password generator. All data is stored locally — nothing ever leaves your machine.
 
 `Python` `Cryptography` `AES-256` `PBKDF2`
@@ -67,7 +67,7 @@
 
 ---
 
-### 🧠 [Azure Sentiment Analyser](https://github.com/AbubakarAli8/azure-sentiment-analyser)
+### 🧠 [Azure Sentiment Analyser](https://github.com/ekql-ops/azure-sentiment)
 > A Python tool that integrates with **Microsoft Azure Cognitive Services** to perform real-time sentiment analysis, key phrase extraction, opinion mining, and language detection on any text.
 
 `Python` `Azure AI` `Text Analytics` `NLP`
@@ -81,17 +81,22 @@
 
 ---
 
-### ⏱️ [WorkTrack — Employee Shift Clock-In System](https://github.com/AbubakarAli8/worktrack)
+### ⏱️ [WorkTrack — Employee Shift Clock-In System](https://github.com/ekql-ops/worktrack)
 > A React-based employee clock-in/out app, born out of using a buggy shift app at work and wondering if I could build something smoother. Features a tap-to-clock-in shift list, a live countdown ring, late-shift alerts, and a full admin panel for managing sessions.
 
 `React` `JavaScript` `CSS`
 
 ---
 
-### 🩸 [DBD Bot — Dead by Daylight Discord Bot](https://github.com/AbubakarAli8/DBD-Bot)
+### 🩸 [DBD Bot — Dead by Daylight Discord Bot](https://github.com/ekql-ops/DBD-Bot)
 A full-featured Discord bot built for a Dead by Daylight community. Includes a custom perk and killer database with live tier info, moderation tools, XP leveling, ticket system, and verification — all in a custom orange/purple theme.
 
-`Node.js` `Discord.js` `discord-player` `REST API`
+---
+
+### 🩸 [BookShop — Manga Catalog Website](https://github.com/ekql-ops/BookShop)
+A responsive HTML bookshop website featuring a manga catalog with cover art and descriptions, a mobile-friendly hamburger menu, a dedicated pay page, and smooth UI animations — all in a sleek dark theme.
+
+`HTML` `CSS` `JavaScript` 
 
 ---
 
