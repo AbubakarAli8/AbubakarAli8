@@ -104,11 +104,11 @@
 
 <div align="center">
 
-![Abubakar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbubakarAli8&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&icon_color=ffffff&text_color=94a3b8)
+![Abubakar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekql-ops&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&icon_color=ffffff&text_color=94a3b8)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbubakarAli8&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=94a3b8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekql-ops&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=94a3b8)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AbubakarAli8&theme=dark&hide_border=true&background=0a0a0a&stroke=2a2a2a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=94a3b8&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com?user=ekql-ops&theme=dark&hide_border=true&background=0a0a0a&stroke=2a2a2a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=94a3b8&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff)
 
 </div>
 
